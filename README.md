@@ -1,3 +1,2 @@
 #### Patterns
-Creating Patterns in python
-Understanding concepts of patterns in python using loops 
+Creating Patterns in python and understanding concepts of patterns in python using loops 
